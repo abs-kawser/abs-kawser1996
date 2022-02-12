@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *React.js*
 
-- 🌱 I’m currently learning *React,Node,Express,MongoDB and everything.*
+- 🌱 also learn Node,Express,MongoDB and manyMore.*
 
 - 👯 I’m looking to collaborate *with other Developers*
 
